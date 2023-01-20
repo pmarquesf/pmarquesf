@@ -23,8 +23,6 @@ I'm currently a Computer Science student & researcher at Pontíficia Universidad
 <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="36" alt="Typescript" /></a>
 <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="36" alt="HTML5" /></a>
 <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="36" alt="C" /></a>
-<a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="36" alt="C++" /></a>
-<a rel="noreferrer"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="36" alt="Rust" /></a>
 <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="36" alt="HTML5" /></a>
 <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="36" alt="HTML5" /></a>
 </p>
