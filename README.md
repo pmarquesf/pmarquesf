@@ -10,8 +10,8 @@ I'm currently a Computer Science student & researcher at Pontíficia Universidad
 
 🔺 I'm based in Minas Gerais, Brazil.<br />
 ✉️ You can contact me at pedromarquesf73@gmail.com.<br />
-🚀 I'm currently searching for my first job as a Data Scientist.<br />
-🧠 I'm a constant student in Python, SQL, C Language, Machine Learning and Statistics.<br />
+🚀 I'm currently looking for my first job as a Data Scientist.<br />
+🧠 I'm a eternal student in Python, SQL, C Language, Machine Learning and Statistics.<br />
 🌏 I'm open to collaborating on projects and change the world through data.<br />
 📚 I can speak Portuguese and English with you (Alcohol unlocks Spanish).<br />
 ⚡ I'm also a soccer fan and a gamer in my spare time (https://steamcommunity.com/id/peddroM/).<br />
