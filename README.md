@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Pedro
 
-<!--
-
 ==========================
 
 Hello! I'm a 20 years old guy and a Data Science enthusiast for the last 2 years. 
