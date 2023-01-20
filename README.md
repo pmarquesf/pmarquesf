@@ -9,11 +9,17 @@ Hello! I'm a 20 years old guy and a Data Science enthusiast for the last 2 years
 I'm currently a Computer Science student & researcher at Pontíficia Universidade Católica de Minas Gerais, where I'm envolved in a Artificial Intelligence project about medical records analysis.
 
 🔺 I'm based in Minas Gerais, Brazil.
+
 ✉️ You can contact me at pedromarquesf73@gmail.com.
+
 🚀 I'm currently searching for my first job as a Data Scientist.
+
 🧠 I'm a constant student in Python, SQL, C Language, Machine Learning and Statistics.
+
 🌏 I'm open to collaborating on projects and change the world through data.
+
 📚 I can speak Portuguese and English with you (Alcohol unlocks Spanish).
+
 ⚡ I'm also a soccer fan and a gamer in my spare time.
 
 <a href="https://www.github.com/pmarquesf" target="_blank" rel="noreferrer"><img
