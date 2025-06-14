@@ -4,8 +4,6 @@
 
 Hello! I'm a 22 years old guy and a Data/IA enthusiast for the last 4 years.
 
-"Data is the new oil". I'm sure you've heard this already and in my belief, this is completely true. That's why despite never thinking I was going into this computation field, I decided to try my career in this area as soon as I saw how useful and powerful data science and machine learning can be these days.
-
 I am currently a Data Engineer, Computer Science student and researcher at the Pontifical Catholic University of Minas Gerais and a double-degree student at the Instituto Politécnico da Guarda (Guarda, Portugal).
 
 🔺 I'm based in Minas Gerais, Brazil.<br />
