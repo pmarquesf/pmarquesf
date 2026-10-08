@@ -1,20 +1,5 @@
 ### Hi there 👋 I'm Pedro
 
-==========================
-
-Hello! I'm a 22 years old guy and a Data/IA enthusiast for the last 4 years.
-
-I am currently a Data Engineer, Computer Science student and researcher at the Pontifical Catholic University of Minas Gerais and a double-degree student at the Instituto Politécnico da Guarda (Guarda, Portugal).
-
-🔺 I'm based in Minas Gerais, Brazil.<br />
-✉️ You can contact me at pedromarquesf73@gmail.com.<br />
-🧠 I'm a eternal student in Python, SQL, C Language, Machine Learning and Statistics.<br />
-🌏 I'm open to collaborating on projects and change the world through data.<br />
-📚 I can speak Portuguese and English with you.<br />
-⚡ I'm also a soccer fan and a gamer in my spare time (https://steamcommunity.com/id/peddroM/).<br />
-
-### Skills
-
 <p align="left">
 <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="36" alt="Javascript" /></a>
 <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="36" alt="Typescript" /></a>
